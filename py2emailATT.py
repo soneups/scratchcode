@@ -33,3 +33,5 @@ def GMailFile(filenames, MailRecipients, subject):
     smtpserver.login(GmailUser, GmailPassword)
     smtpserver.sendmail(msg['From'], MailRecipients, msg.as_string())
     smtpserver.close()
+
+GMailFile (filenames="export.csv", MailRecipients="to@example.com",subject="file") 
