@@ -1,6 +1,7 @@
 import smbus
 import time
 
+# HT - https://www.pi-supply.com/bright-pi-v1-0-assembly-instructions/
 # this file - enos.in/brightpi
 # Select the bus to use.. This will be 0 for revision 1 boards
 bus = smbus.SMBus(1)
