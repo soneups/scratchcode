@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #
 # 9-Feb-2015 v1.0 initial script
-# this file - enos.in/ccep-tweet
+# this file - enos.in/cceptweet
 #
 
 import sys
