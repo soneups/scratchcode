@@ -18,7 +18,7 @@ Arithmetic Operators and Precedence
 *	Multiplication	x * y
 /	Division (result is always a float)	x / y
 %	Modulus	x % y (remainder of x/y)
-//	Floor division - results into whole number (may be float)	x // y
+//	Floor division - results into whole number (may be float)	x // y   ## fractional part (remainder) is discarded
 **	Exponent	x**y (x to the power y)
 ====
 **	Exponentiation
