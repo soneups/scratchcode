@@ -26,3 +26,4 @@ or just "from my_math import *"
 then you can remove the prefix "my_math."
 remember eg "import math" means you still need to explicitly call the imported function ie math.sqrt
 BUT if you used "from math import *" then the function becomes sqrt(x)
+for futher readin on all the python 'standard' modules visit http://docs.python.org/3/py-modindex.html
