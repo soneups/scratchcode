@@ -16,3 +16,8 @@ print(chr("97"))=a
 escape sequence ='\...' \t [tab]
 \n newline
 he said \"hello\", how are you...
+x="and and and"
+x.count("and")
+x.replace("and","ZZZ")
+my_list=x.split() - will delimit by default using the space " " (the split value i.e. space etc is remove)
+"my age is {0} and your age is {1}".format(34,42)
